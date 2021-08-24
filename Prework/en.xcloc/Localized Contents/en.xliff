@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Prework/Base.lproj/Main.storyboard" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+    </header>
+    <body>
+      <trans-unit id="8GS-Fb-Xby.text" xml:space="preserve">
+        <source>$0.00</source>
+        <target>$0.00</target>
+        <note>Class = "UILabel"; text = "$0.00"; ObjectID = "8GS-Fb-Xby";</note>
+      </trans-unit>
+      <trans-unit id="Qui-Xy-b4K.text" xml:space="preserve">
+        <source>Total</source>
+        <target>Total</target>
+        <note>Class = "UILabel"; text = "Total"; ObjectID = "Qui-Xy-b4K";</note>
+      </trans-unit>
+      <trans-unit id="dga-KW-IYO.text" xml:space="preserve">
+        <source>Tip</source>
+        <target>Tip</target>
+        <note>Class = "UILabel"; text = "Tip"; ObjectID = "dga-KW-IYO";</note>
+      </trans-unit>
+      <trans-unit id="eG5-IX-XYV.segmentTitles[0]" xml:space="preserve">
+        <source>10%</source>
+        <target>10%</target>
+        <note>Class = "UISegmentedControl"; eG5-IX-XYV.segmentTitles[0] = "10%"; ObjectID = "eG5-IX-XYV";</note>
+      </trans-unit>
+      <trans-unit id="eG5-IX-XYV.segmentTitles[1]" xml:space="preserve">
+        <source>20%</source>
+        <target>20%</target>
+        <note>Class = "UISegmentedControl"; eG5-IX-XYV.segmentTitles[1] = "20%"; ObjectID = "eG5-IX-XYV";</note>
+      </trans-unit>
+      <trans-unit id="eG5-IX-XYV.segmentTitles[2]" xml:space="preserve">
+        <source>20%</source>
+        <target>20%</target>
+        <note>Class = "UISegmentedControl"; eG5-IX-XYV.segmentTitles[2] = "20%"; ObjectID = "eG5-IX-XYV";</note>
+      </trans-unit>
+      <trans-unit id="fSt-jd-v27.text" xml:space="preserve">
+        <source>Bill Ammount</source>
+        <target>Bill Ammount</target>
+        <note>Class = "UILabel"; text = "Bill Ammount"; ObjectID = "fSt-jd-v27";</note>
+      </trans-unit>
+      <trans-unit id="qdw-WP-yAG.text" xml:space="preserve">
+        <source>$0.00</source>
+        <target>$0.00</target>
+        <note>Class = "UILabel"; text = "$0.00"; ObjectID = "qdw-WP-yAG";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Prework/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Prework</source>
+        <target>Prework</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
